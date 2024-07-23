@@ -20,7 +20,7 @@ Trò chơi có 8 chương được chia thành 3 mức độ khó: Beginner (Cơ
 -   **Chế độ Intermediate**: Giới thiệu cú pháp C++, thực hành và ghi nhớ cú pháp thông qua các câu đố khó hơn.
 -   **Chế độ Advanced**: Thực hành và thành thạo cú pháp C++ bằng cách viết mã trực tiếp.
 
-### Ngoài ra bạn còn rèn luyện được
+### Ngoài ra trò chơi còn đem đến
 
 -   Phát triển tư duy logic bằng cách giải các thử thách và câu đố khác nhau.
 -   Hoà nhập vào thế giới TheraCPP thông qua các đoạn hội thoại kể lên các câu chuyện, bản đồ thế giới trực quan, và lối chơi tương tác cao nhờ vào các cơ chế và vấn đề được thiết kế không chỉ đa dạng, mà còn phù hợp với tiến trình của cốt truyện.
