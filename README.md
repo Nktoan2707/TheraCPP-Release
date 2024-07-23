@@ -26,18 +26,18 @@ The game features 8 chapters divided into 3 difficulties: Basic, Intermediate, a
 ## Installation and Setup
 
 ### Windows
-1. Download the latest release from the [Releases](https://github.com/YourUsername/TheraCPP-Release/releases) page.
+1. Download the latest release from the [Releases]([https://github.com/YourUsername/TheraCPP-Release/releases](https://github.com/Nktoan2707/TheraCPP-Release/releases) page.
 2. Unzip the downloaded file.
 3. Run the `TheraCPP.exe` file to start the game.
 
 ### Android Tablets
-1. Download the latest APK from the [Releases](https://github.com/YourUsername/TheraCPP-Release/releases) page.
+1. Download the latest APK from the [Releases]([https://github.com/YourUsername/TheraCPP-Release/releases](https://github.com/Nktoan2707/TheraCPP-Release/releases) page.
 2. Transfer the APK file to your Android tablet.
 3. Open the APK file on your tablet and follow the prompts to install the game.
 4. Once installed, open the TheraCPP app to start the game.
 
 ### macOS
-1. Download the latest release from the [Releases](https://github.com/YourUsername/TheraCPP-Release/releases) page.
+1. Download the latest release from the [Releases]([https://github.com/YourUsername/TheraCPP-Release/releases](https://github.com/Nktoan2707/TheraCPP-Release/releases) page.
 2. Open the `TheraCPP.app` file to start the game. If you encounter a security warning, go to `System Preferences` > `Security & Privacy` and allow the app to run.
 
 
