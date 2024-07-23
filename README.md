@@ -1,3 +1,5 @@
+[Click here to read English version](https://github.com/Nktoan2707/TheraCPP-Release/blob/main/README_en.md)
+
 # TheraCPP
 
 TheraCPP là một ứng dụng giáo dục được thiết kế để dạy các lập trình viên mới cách lập trình và phát triển kỹ năng lập trình, tập trung cụ thể vào ngôn ngữ lập trình C++. Ứng dụng này cung cấp cho người dùng cả kiến thức lập trình cơ bản và nâng cao thông qua các hoạt động giải trí, trò chơi và các bài tập thực hành.
