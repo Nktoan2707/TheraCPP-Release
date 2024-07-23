@@ -1,4 +1,4 @@
-[Nhấn vào đây để đọc phiên bản Tiếng Việt](https://github.com/Nktoan2707/TheraCPP-Release/releases)
+[Nhấn vào đây để đọc phiên bản Tiếng Việt](https://github.com/Nktoan2707/TheraCPP-Release/blob/main/README.md)
 
 # TheraCPP
 
