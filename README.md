@@ -25,23 +25,35 @@ The game features 8 chapters divided into 3 difficulties: Basic, Intermediate, a
 
 ## Installation and Setup
 
+### Windows
 1. Download the latest release from the [Releases](https://github.com/YourUsername/TheraCPP-Release/releases) page.
 2. Unzip the downloaded file.
 3. Run the `TheraCPP.exe` file to start the game.
 
+### Android Tablets
+1. Download the latest APK from the [Releases](https://github.com/YourUsername/TheraCPP-Release/releases) page.
+2. Transfer the APK file to your Android tablet.
+3. Open the APK file on your tablet and follow the prompts to install the game.
+4. Once installed, open the TheraCPP app to start the game.
+
+### macOS
+1. Download the latest release from the [Releases](https://github.com/YourUsername/TheraCPP-Release/releases) page.
+2. Open the `TheraCPP.app` file to start the game. If you encounter a security warning, go to `System Preferences` > `Security & Privacy` and allow the app to run.
+
+
 ## Screenshots
 
-![Screenshot1](url_to_screenshot1)
-![Screenshot2](url_to_screenshot2)
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
+![Screenshot1](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/1.png)
+![Screenshot2](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/2.png)
+![Screenshot3](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/3.png)
+![Screenshot4](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/4.png)
+![Screenshot5](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/5.png)
+![Screenshot6](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/6.png)
+![Screenshot7](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/7.png)
+![Screenshot8](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/8.png)
+![Screenshot9](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/9.png)
+![Screenshot10](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/10.png)
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-## Contact
-
-For any inquiries or feedback, please contact [Your Name](mailto:your.email@example.com).
