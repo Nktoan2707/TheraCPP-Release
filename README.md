@@ -1,55 +1,56 @@
 # TheraCPP
 
-TheraCPP is an educational app designed to teach new programmers how to code and develop programming skills, with a specific focus on the C++ programming language. This app provides users with both fundamental and advanced programming knowledge through entertaining activities, games, and hands-on exercises.
+TheraCPP là một ứng dụng giáo dục được thiết kế để dạy các lập trình viên mới cách lập trình và phát triển kỹ năng lập trình, tập trung cụ thể vào ngôn ngữ lập trình C++. Ứng dụng này cung cấp cho người dùng cả kiến thức lập trình cơ bản và nâng cao thông qua các hoạt động giải trí, trò chơi và các bài tập thực hành.
 
-## Overview
+## Tổng quan
 
-The game features 8 chapters divided into 3 difficulties: Basic, Intermediate, and Advanced. With over 100 levels across these chapters, TheraCPP covers a wide range of programming concepts, guiding new programmers from basic to advanced levels.
+Trò chơi có 8 chương được chia thành 3 mức độ khó: Beginner (Cơ bản), Intermediate (Trung cấp) và Advanced (Nâng cao). Với hơn 100 màn chơi xuyên suốt các chương, nội dung của TheraCPP sẽ đi qua một loạt các khái niệm lập trình, nhằm hướng dẫn các lập trình viên tiếp cận kiến thức từ mức cơ bản đến nâng cao.
 
-### Game Modes
+### Chế độ chơi
 
--   **Beginner**: This is the simplest gameplay mode, allowing players to familiarize themselves with the drag-and-drop mechanics of TheraCPP. In Basic mode, players drag coding blocks with action symbols into the gameplay input box to help the character clear the level.
--   **Intermediate**: This mode presents a harder challenge. After getting used to the game's mechanics, players will need to drag and drop coding blocks according to C++ syntax structure into the input box. The code blocks have predefined structures, and players must connect them correctly to solve the puzzles and clear the levels.
--   **Advanced**: The most challenging mode, where players familiar with C++ structure must write the C++ syntax themselves into the code editor to guide the character and clear the levels. The drag-and-drop feature and predefined coding blocks are removed.
+-   **Beginner (Cơ bản)**: Đây là chế độ chơi đơn giản nhất, người chơi sẽ được làm quen với cơ chế kéo và thả của TheraCPP. Trong chế độ Cơ bản, người chơi kéo các khối mã có ký hiệu hành động vào vùng nhập đáp án để giúp nhân vật phá giải thử thách và vượt qua màn chơi.
+-   **Intermediate (Trung cấp)**: Chế độ này mang đến những thử thách khó khăn hơn. Sau khi quen với cơ chế của trò chơi sau phần Beginner, người chơi sẽ cần kéo và thả các khối mã theo cấu trúc cú pháp của ngôn ngữ lập trình C++ vào vùng nhập đáp án. Các khối mã sẽ có cấu trúc đã được định sẵn, và người chơi phải kết nối chúng đúng cách để giải các câu đố và vượt qua các màn chơi.
+-   **Advanced (Nâng cao)**: Chế độ khó nhất, nơi người chơi sẽ được thực hành cách viết mã C++, người chơi sẽ phải tự viết cú pháp của C++ vào khu vực nhập mã trên màn hình để hướng dẫn nhân vật cách vượt qua các màn chơi. Tính năng kéo và thả các khối mã định sẵn sẽ không còn nữa.
 
-### Learning Outcomes
+### Những gì bạn sẽ học được
 
--   **Beginner Mode**: Learn basic coding concepts such as sequences, loops, functions, conditions, and file handling.
--   **Intermediate Mode**: Introduction to C++ syntax, practice and memorize the syntax through more challenging puzzles.
--   **Advanced Mode**: Practice and master C++ syntax by writing code directly.
+-   **Chế độ Beginner**: Học các khái niệm lập trình cơ bản như chuỗi, vòng lặp, hàm, điều kiện và xử lý tập tin.
+-   **Chế độ Intermediate**: Giới thiệu cú pháp C++, thực hành và ghi nhớ cú pháp thông qua các câu đố khó hơn.
+-   **Chế độ Advanced**: Thực hành và thành thạo cú pháp C++ bằng cách viết mã trực tiếp.
 
-### Additional Benefits
+### Ngoài ra bạn còn rèn luyện được
 
--   Develop logical thinking by solving various challenges and puzzles.
--   Engage with the TheraCPP world through story dialogues, maps, and interactive gameplay containing diverse mechanics and problems fitting the story progression.
+-   Phát triển tư duy logic bằng cách giải các thử thách và câu đố khác nhau.
+-   Hoà nhập vào thế giới TheraCPP thông qua các đoạn hội thoại kể lên các câu chuyện, bản đồ thế giới trực quan, và lối chơi tương tác cao nhờ vào các cơ chế và vấn đề được thiết kế không chỉ đa dạng, mà còn phù hợp với tiến trình của cốt truyện.
 
-## Installation and Setup
+## Cách cài đặt
 
 ### Windows
-1. Download the latest release from the [Releases](https://github.com/Nktoan2707/TheraCPP-Release/releases) page.
-2. Unzip the downloaded file.
-3. Run the `TheraCPP.exe` file to start the game.
 
-### Android Tablets
-1. Download the latest APK from the [Releases](https://github.com/Nktoan2707/TheraCPP-Release/releases) page.
-2. Transfer the APK file to your Android tablet.
-3. Open the APK file on your tablet and follow the prompts to install the game.
-4. Once installed, open the TheraCPP app to start the game.
+1. Tải phiên bản mới nhất từ trang [Phát hành](https://github.com/Nktoan2707/TheraCPP-Release/releases).
+2. Giải nén tệp đã tải về.
+3. Chạy tệp `TheraCPP.exe` để bắt đầu trò chơi.
 
+### Máy tính bảng Android
 
-## Screenshots
+1. Tải APK mới nhất từ trang [Phát hành](https://github.com/Nktoan2707/TheraCPP-Release/releases).
+2. Chuyển tệp APK vào máy tính bảng Android của bạn.
+3. Mở tệp APK trên máy tính bảng và làm theo các hướng dẫn để cài đặt trò chơi.
+4. Sau khi cài đặt, mở ứng dụng TheraCPP để bắt đầu trò chơi.
 
-![Screenshot1](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/1.png)
-![Screenshot2](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/2.png)
-![Screenshot3](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/3.png)
-![Screenshot4](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/4.png)
-![Screenshot5](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/5.png)
-![Screenshot6](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/6.png)
-![Screenshot7](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/7.png)
-![Screenshot8](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/8.png)
-![Screenshot9](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/9.png)
-![Screenshot10](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/10.png)
+## Ảnh chụp màn hình trong trò chơi
 
-## License
+![Ảnh chụp màn hình 1](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/1.png)
+![Ảnh chụp màn hình 2](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/2.png)
+![Ảnh chụp màn hình 3](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/3.png)
+![Ảnh chụp màn hình 4](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/4.png)
+![Ảnh chụp màn hình 5](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/5.png)
+![Ảnh chụp màn hình 6](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/6.png)
+![Ảnh chụp màn hình 7](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/7.png)
+![Ảnh chụp màn hình 8](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/8.png)
+![Ảnh chụp màn hình 9](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/9.png)
+![Ảnh chụp màn hình 10](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/10.png)
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+## Giấy phép
+
+Dự án này được cấp phép theo Giấy phép MIT. Xem tệp [LICENSE](./LICENSE) để biết chi tiết
