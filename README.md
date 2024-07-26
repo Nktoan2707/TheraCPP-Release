@@ -33,6 +33,11 @@ Trò chơi có 8 chương được chia thành 3 mức độ khó: Beginner (Cơ
 2. Giải nén tệp đã tải về.
 3. Chạy tệp `TheraCPP.exe` để bắt đầu trò chơi.
 
+### MacOS
+1. Truy cập [Mac App Store]( https://apps.apple.com/vn/app/theracpp/id6575351503?mt=12).
+2. Tải và cài đặt ứng dụng TheraCPP.
+3. Sau khi cài đặt xong, mở ứng dụng TheraCPP để bắt đầu trò chơi.
+
 ### Máy tính bảng Android
 
 1. Tải APK mới nhất từ trang [Phát hành](https://github.com/Nktoan2707/TheraCPP-Release/releases).
