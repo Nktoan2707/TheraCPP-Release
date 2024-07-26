@@ -33,8 +33,13 @@ The game features 8 chapters divided into 3 difficulties: Basic, Intermediate, a
 2. Unzip the downloaded file.
 3. Run the `TheraCPP.exe` file to start the game.
 
-### MacOS
+### macOS
 1. Go to the [Mac App Store](https://apps.apple.com/vn/app/theracpp/id6575351503?mt=12)
+2. Download and install the TheraCPP app.
+3. Once installed, open the TheraCPP app to start the game.
+
+### iPad
+1. Go to the [Mac App Store](https://apps.apple.com/vn/app/theracpp-learn-coding/id6575351503?platform=ipad)
 2. Download and install the TheraCPP app.
 3. Once installed, open the TheraCPP app to start the game.
 
