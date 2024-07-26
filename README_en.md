@@ -33,6 +33,11 @@ The game features 8 chapters divided into 3 difficulties: Basic, Intermediate, a
 2. Unzip the downloaded file.
 3. Run the `TheraCPP.exe` file to start the game.
 
+### MacOS
+1. Go to the [Mac App Store](https://apps.apple.com/vn/app/theracpp/id6575351503?mt=12)
+2. Download and install the TheraCPP app.
+3. Once installed, open the TheraCPP app to start the game.
+
 ### Android Tablets
 
 1. Download the latest APK from the [Releases](https://github.com/Nktoan2707/TheraCPP-Release/releases) page.
