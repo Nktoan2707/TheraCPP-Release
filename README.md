@@ -25,6 +25,12 @@ Trò chơi có 8 chương được chia thành 3 mức độ khó: Beginner (Cơ
 -   Phát triển tư duy logic bằng cách giải các thử thách và câu đố khác nhau.
 -   Hoà nhập vào thế giới TheraCPP thông qua các đoạn hội thoại kể lên các câu chuyện, bản đồ thế giới trực quan, và lối chơi tương tác cao nhờ vào các cơ chế và vấn đề được thiết kế không chỉ đa dạng, mà còn phù hợp với tiến trình của cốt truyện.
 
+## Địa chỉ Khảo sát
+
+- Để cải thiện và nâng cao chất lượng trò chơi, chúng tôi đã tạo khảo sát để thu thập ý kiến từ người chơi. Nếu bạn có góp ý hoặc muốn tham gia khảo sát, vui lòng nhấn vào [đây](https://forms.gle/Qh5EA5uH1npyCSyk9) để điền vào mẫu khảo sát.
+- Mọi ý kiến đóng góp của bạn sẽ được chúng tôi cân nhắc cẩn thận. Chúng tôi rất biết ơn sự đóng góp và phản hồi của bạn!
+
+
 ## Cách cài đặt
 
 ### Windows
