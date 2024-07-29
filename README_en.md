@@ -26,9 +26,10 @@ The game features 8 chapters divided into 3 difficulties: Basic, Intermediate, a
 -   Engage with the TheraCPP world through story dialogues, maps, and interactive gameplay containing diverse mechanics and problems fitting the story progression.
 
 
-## Survey Address
-- To improve and enhance the quality of the game, we have created a survey to collect feedback from players. If you have any suggestions or would like to participate in the survey, please click [here](https://forms.gle/Qh5EA5uH1npyCSyk9) to fill out the survey form.
-- All your feedback will be carefully considered. We greatly appreciate your contributions and responses!
+## Player Feedback Survey
+- To improve and enhance the quality of the game, we have created a survey to collect feedback from players. All player feedback will be carefully considered. We greatly appreciate your contributions and responses!
+- Survey link: [https://forms.gle/Qh5EA5uH1npyCSyk9](https://forms.gle/Qh5EA5uH1npyCSyk9)
+
 
 ## Installation and Setup
 
