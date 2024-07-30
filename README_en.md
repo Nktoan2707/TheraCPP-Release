@@ -69,6 +69,12 @@ The game features 8 chapters divided into 3 difficulties: Basic, Intermediate, a
 ![Screenshot9](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/9.png)
 ![Screenshot10](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/10.png)
 
+## Contact
+
+- **Email 1:** [leduytam600@gmail.com](mailto:leduytam600@gmail.com)
+- **Email 2:** [nktoan20022707@gmail.com](mailto:nktoan20022707@gmail.com)
+- <a href="https://www.facebook.com/groups/dndstudio.dev"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook Icon" width="20" height="20"></a> : https://www.facebook.com/groups/dndstudio.dev
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
