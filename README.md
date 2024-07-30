@@ -70,6 +70,13 @@ Trò chơi có 8 chương được chia thành 3 mức độ khó: Beginner (Cơ
 ![Ảnh chụp màn hình 9](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/9.png)
 ![Ảnh chụp màn hình 10](https://github.com/Nktoan2707/TheraCPP-Release/blob/a392799e07795ebfed66d5881f1c4668dc3a539e/Images/16-9%20ratio/10.png)
 
+
+## Liên hệ
+
+- **Email 1:** [leduytam600@gmail.com](mailto:leduytam600@gmail.com)
+- **Email 2:** [nktoan20022707@gmail.com](mailto:nktoan20022707@gmail.com)
+- <a href="https://www.facebook.com/groups/dndstudio.dev"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook Icon" width="20" height="20"></a> : https://www.facebook.com/groups/dndstudio.dev 
+
 ## Giấy phép
 
 Dự án này được cấp phép theo Giấy phép MIT. Xem tệp [LICENSE](./LICENSE) để biết chi tiết
