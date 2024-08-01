@@ -49,12 +49,13 @@ The game features 8 chapters divided into 3 difficulties: Basic, Intermediate, a
 2. Download and install the TheraCPP app.
 3. Once installed, open the TheraCPP app to start the game.
 
-### Android Tablets
+### Android Tablet
 
-1. Download the latest APK from the [Releases](https://github.com/Nktoan2707/TheraCPP-Release/releases) page.
-2. Transfer the APK file to your Android tablet.
-3. Open the APK file on your tablet and follow the prompts to install the game.
-4. Once installed, open the TheraCPP app to start the game.
+1. Open the Google Play Store on your Android tablet.
+2. Search for "TheraCPP" or click on this link to download the app: [TheraCPP on Google Play](https://play.google.com/store/apps/details?id=com.datn.theracpp).
+3. Tap the "Install" button to begin the installation process.
+4. Once the installation is complete, open the TheraCPP app to start the game.
+
 
 ## Screenshots
 
