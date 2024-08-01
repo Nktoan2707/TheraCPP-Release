@@ -52,10 +52,10 @@ Trò chơi có 8 chương được chia thành 3 mức độ khó: Beginner (Cơ
 
 ### Máy tính bảng Android
 
-1. Tải APK mới nhất từ trang [Phát hành](https://github.com/Nktoan2707/TheraCPP-Release/releases).
-2. Chuyển tệp APK vào máy tính bảng Android của bạn.
-3. Mở tệp APK trên máy tính bảng và làm theo các hướng dẫn để cài đặt trò chơi.
-4. Sau khi cài đặt, mở ứng dụng TheraCPP để bắt đầu trò chơi.
+1. Mở ứng dụng Google Play trên máy tính bảng Android của bạn.
+2. Tìm kiếm "TheraCPP" hoặc nhấn vào liên kết này để tải ứng dụng: [TheraCPP trên CH Play](https://play.google.com/store/apps/details?id=com.datn.theracpp).
+3. Nhấn vào nút "Cài đặt" để bắt đầu quá trình cài đặt ứng dụng.
+4. Sau khi cài đặt hoàn tất, mở ứng dụng TheraCPP để bắt đầu trò chơi.
 
 ## Ảnh chụp màn hình trong trò chơi
 
