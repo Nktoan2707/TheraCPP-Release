@@ -80,3 +80,5 @@ Trò chơi có 8 chương được chia thành 3 mức độ khó: Beginner (Cơ
 ## Giấy phép
 
 Dự án này thuộc bản quyền sỡ hữu của Trường Đại học Khoa học Tự nhiên - ĐHQG-HCM và Tác giả.
+Mọi hình thức sao chép hay số hóa các thông tin từ dự án chỉ được nhằm mục đích phi thương mại là lưu trữ phục vụ học tập, giảng dạy, nghiên cứu.
+
