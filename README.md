@@ -79,4 +79,4 @@ Trò chơi có 8 chương được chia thành 3 mức độ khó: Beginner (Cơ
 
 ## Giấy phép
 
-Dự án này được cấp phép theo Giấy phép MIT. Xem tệp [LICENSE](./LICENSE) để biết chi tiết
+Dự án này thuộc bản quyền sỡ hữu của Trường Đại học Khoa học Tự nhiên - ĐHQG-HCM và Tác giả.
