@@ -78,4 +78,5 @@ The game features 8 chapters divided into 3 difficulties: Basic, Intermediate, a
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This project is copyrighted by the University of Science - VNU-HCM and the Author.
+Any form of reproduction or digitization of the information from this project is permitted only for non-commercial purposes, such as storage for learning, teaching, and research.
